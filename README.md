@@ -24,7 +24,7 @@
     <main>
         <section id="about">
             <h2>~ About Me ~</h2>
-            <img src="C:\Users\pavan\OneDrive\Desktop\portfolio\WhatsApp Image 2024-05-05 at 11.52.05_05f7b695.jpg">
+           <img src="C:\Users\pavan\OneDrive\Desktop\portfolio\WhatsApp Image 2024-05-05 at 13.40.26_2914b581.jpg" alt=" Photo of Pavan">
             <p>Hello there! I'm a Front-end Developer . I am a Second Year Student , Pursuing a Bachelor of Engineering in Information Technology from Sandip Institute of Technology and Research Center (SITRC) affiliated with Savitribai Phule Pune University (SPPU) , where I have gained Programming languages, Data Structure and Algorithm , i have complete multiple courses and certification
             </section>
         <section id="portfolio">
@@ -48,19 +48,20 @@
                 class="hoverline">Pavan8010850305gmail.com</a></a>
           </p>
           <p>
-            <a aria-label="View Pavan on GitHub" href="https://github.com/Pavanr2585" target="_blank"
-              data-position="top" data-tooltip="View Pavan on GitHub"
-              class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i><a
-                aria-label="Pavan on Github" href="https://github.com/Pavanr2585" class="hoverline"
-                target="_blank">github.com/Pavanr2585</a></a>
-          </p>
-          <p>
             <a aria-label="View Pavan on LinkedIn" href="www.linkedin.com/in/pavanrathod25" target="_blank"
               data-position="top" data-tooltip="View Pavan on LinkedIn"
               class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                 class="fa fa-linkedin"></i><a aria-label="Pratik on LinkedIn" href="www.linkedin.com/in/pavanrathod25"
                 class="hoverline" target="_blank">linkedin.com/in/pavanrathod25</a></a>
           </p>
+          <p>
+            <a aria-label="View Pavan on GitHub" href="https://github.com/Pavanr2585" target="_blank"
+              data-position="top" data-tooltip="View Pavan on GitHub"
+              class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i><a
+                aria-label="Pavan on Github" href="https://github.com/Pavanr2585" class="hoverline"
+                target="_blank">github.com/Pavanr2585</a></a>
+          </p>
+
         </div>
       </section>
     </main>
