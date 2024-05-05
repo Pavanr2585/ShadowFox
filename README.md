@@ -44,7 +44,7 @@
           <p>
             <a aria-label="Email Pavan" href="mailto:pavan8010850305@gmail.com" target="_blank" data-position="top"
               data-tooltip="Email Pavan" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                class="fa fa-envelope"></i><a aria-label="Email Pratik" href="mailto:pavan8010850305@gmail.com"
+                class="fa fa-envelope"></i><a aria-label="Email Pavan" href="mailto:pavan8010850305@gmail.com"
                 class="hoverline">Pavan8010850305gmail.com</a></a>
           </p>
           <p>
