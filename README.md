@@ -71,7 +71,7 @@
         </section>
     </main>
     <footer>
-        <p>Copyright © 2024 Pavan Rathod — All Rights Reserved</p>
+        <p> © 2024 Pavan Rathod — All Rights Reserved</p>
     </footer>
 </body>
 </html>
