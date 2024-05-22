@@ -63,7 +63,4 @@
                 target="_blank">github.com/Pavanr2585</a></a>
           </p>
 
-        </div>
-      </section>
-    </main>
-  
+
