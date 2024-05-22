@@ -67,11 +67,3 @@
       </section>
     </main>
   
-
-        </section>
-    </main>
-    <footer>
-        <p> © 2024 Pavan Rathod — All Rights Reserved</p>
-    </footer>
-</body>
-</html>
