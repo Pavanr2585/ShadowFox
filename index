@@ -217,7 +217,7 @@
 				</div>
 
 				<form action="" class="newsletter__subscribe">
-					<input type="text" placeholder="Pavan8010850305@email.com" class="newsletter__input">
+					<input type="text" placeholder="Pavan8010850305@Gmail.com" class="newsletter__input">
 					<a href="#" class="button">Subscribe</a>
 				</form>
 			</div>
